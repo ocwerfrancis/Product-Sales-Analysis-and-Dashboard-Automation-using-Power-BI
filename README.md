@@ -1,6 +1,10 @@
 # Product-Sales-Analysis-and-Dashboard-Automation-using-Power-BI
 # Project Objective:
 Develop an interactive Power BI dashboard that provides real-time insights into product sales, costs, and profits. The goal is to empower the client with dynamic visualizations and data-driven decision-making tools.
+
+![Image description](https://i.postimg.cc/BQMGL3Zx/Screenshot-from-2025-03-01-14-32-00.png)
+
+
 # Key Business Questions Addressed:
 ## Product Performance:
 

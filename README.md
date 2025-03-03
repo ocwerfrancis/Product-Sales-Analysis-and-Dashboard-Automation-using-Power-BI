@@ -5,6 +5,9 @@ Develop an interactive Power BI dashboard that provides real-time insights into 
 ![Image description](https://i.postimg.cc/BQMGL3Zx/Screenshot-from-2025-03-01-14-32-00.png)
 
 
+![Image description](https://i.postimg.cc/J41Lz08r/Screenshot-from-2025-03-01-14-32-36.png)
+
+
 # Key Business Questions Addressed:
 ## Product Performance:
 
